@@ -3,7 +3,7 @@
     "update_code": "1820",
     "reminder_time": "1",
     "update_version": "v18.20",
-    "com.whatsapp": "https://miri.com/dl-wa-plus",
+    "com.whatsapp": "https://fg.com/dl-wa-plus",
     "update_message": "
 <h3><strong>WhatsApp Plus v18.20</strong><p>
 "
